@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544882450 source:c:\users\lvmiaomiao\desktop\campusmap\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<algorithm>
+
